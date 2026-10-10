@@ -1,0 +1,4 @@
+Paso del diente = 4.1887
+altura del diente = 3mm
+modulo es igual a 1.3333 
+base = modulo
